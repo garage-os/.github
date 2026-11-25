@@ -22,7 +22,7 @@ To make professional automotive technology more accessible, efficient and connec
 
 | Project | Description |
 | :--- | :--- |
-| **S4S by GarageOS** | Automotive resources, parts and tools marketplaces, professional networking and technical support. |
+| **[S4S by GarageOS](https://github.com/garage-os/S4S)** | Automotive resources, parts and tools marketplaces, professional networking and technical support. |
 | **GarageOS** | Digital workshop and automotive business management. |
 | **4Desk** | Remote desktop and automotive technical assistance. |
 | **Clubenz** | Connected automotive services and car ownership ecosystem. |
